@@ -7,24 +7,24 @@
   "public_hub": {
     "repository": "https://github.com/daveswisa-cmyk/casinoplatform-brand-kit-hub",
     "access": "public-read-only",
-    "asset_commit": "73d5c56e697e29eaf861ebe8ae8755057881079e"
+    "asset_commit": "8624422aafdb05302e9f8c12ee1d9a3b562c47c6"
   },
   "assets": {
     "logo_primary": {
       "filename": "logo_primary_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/351f78ab5851943bcd8d5e56416ab5c25c42a538/Brand_Kit/Assets/logo_primary_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/8624422aafdb05302e9f8c12ee1d9a3b562c47c6/Brand_Kit/Assets/logo_primary_transparent.png",
       "type": "image/png",
       "approved": true
     },
     "logo_light": {
       "filename": "logo_light_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/73d5c56e697e29eaf861ebe8ae8755057881079e/Brand_Kit/Assets/logo_light_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/8624422aafdb05302e9f8c12ee1d9a3b562c47c6/Brand_Kit/Assets/logo_light_transparent.png",
       "type": "image/png",
       "approved": true
     },
     "logo_dark": {
       "filename": "logo_dark_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/73d5c56e697e29eaf861ebe8ae8755057881079e/Brand_Kit/Assets/logo_dark_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/8624422aafdb05302e9f8c12ee1d9a3b562c47c6/Brand_Kit/Assets/logo_dark_transparent.png",
       "type": "image/png",
       "approved": true
     }
