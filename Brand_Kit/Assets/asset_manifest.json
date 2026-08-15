@@ -1,39 +1,30 @@
 {
   "project": "CasinoPlatform",
   "project_slug": "casino-platform",
-  "version": "3.0",
-  "updated_at": "2026-08-15T02:36:04Z",
+  "version": "3.1",
+  "updated_at": "2026-08-15T03:04:00Z",
   "handoff_status": "ready",
-  "verification": {
-    "checked_at": "2026-08-15T02:36:49Z",
-    "method": "anonymous HTTPS HEAD requests without login",
-    "results": {
-      "logo_primary": {"http_status": 200, "content_type": "image/png"},
-      "logo_light": {"http_status": 200, "content_type": "image/png"},
-      "logo_dark": {"http_status": 200, "content_type": "image/png"}
-    }
-  },
   "public_hub": {
     "repository": "https://github.com/daveswisa-cmyk/casinoplatform-brand-kit-hub",
     "access": "public-read-only",
-    "asset_commit": "a14d621786e81a795b33f2ef6f4e466621ea9978"
+    "asset_commit": "351f78ab5851943bcd8d5e56416ab5c25c42a538"
   },
   "assets": {
     "logo_primary": {
       "filename": "logo_primary_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/a14d621786e81a795b33f2ef6f4e466621ea9978/Brand_Kit/Assets/logo_primary_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/351f78ab5851943bcd8d5e56416ab5c25c42a538/Brand_Kit/Assets/logo_primary_transparent.png",
       "type": "image/png",
       "approved": true
     },
     "logo_light": {
       "filename": "logo_light_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/a14d621786e81a795b33f2ef6f4e466621ea9978/Brand_Kit/Assets/logo_light_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/351f78ab5851943bcd8d5e56416ab5c25c42a538/Brand_Kit/Assets/logo_light_transparent.png",
       "type": "image/png",
       "approved": true
     },
     "logo_dark": {
       "filename": "logo_dark_transparent.png",
-      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/a14d621786e81a795b33f2ef6f4e466621ea9978/Brand_Kit/Assets/logo_dark_transparent.png",
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/casinoplatform-brand-kit-hub/351f78ab5851943bcd8d5e56416ab5c25c42a538/Brand_Kit/Assets/logo_dark_transparent.png",
       "type": "image/png",
       "approved": true
     }
